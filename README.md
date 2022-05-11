@@ -1,2 +1,2 @@
 # College Finder
-College Finder Internship Projects
+College Finder - Internship Projects
